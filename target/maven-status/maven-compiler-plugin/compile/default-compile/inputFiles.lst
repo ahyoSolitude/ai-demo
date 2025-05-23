@@ -1,0 +1,13 @@
+/workspace/ai-demo/src/main/java/com/example/aidemo/service/AiChatService.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/SearchTools.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/AiDemoApplication.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/model/ChatRequest.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/WeatherTools.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/controller/WebController.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/ToolParameter.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/model/ChatResponse.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/controller/ChatController.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/CalculatorTools.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/Tool.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/model/ChatMessage.java
+/workspace/ai-demo/src/main/java/com/example/aidemo/tools/ToolRegistry.java
